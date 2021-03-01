@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a> |
-  <a href="#-projeto">Projeto</a> |
-  <a href="#-layout">Layout</a> |
-  <a href="#-layout">Como executar</a> |
+  <a href="#laptop-projeto">Projeto</a> |
+  <a href="#pencil-layout">Layout</a> |
+  <a href="#robot-como-executar">Como executar</a> |
   <a href="#memo-licença">Licença</a>
 </p>
 
