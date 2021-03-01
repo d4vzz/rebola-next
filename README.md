@@ -13,9 +13,9 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=GPL3&color=8257E6&labelColor=121214" alt="License">
   
-  <img src="https://img.shields.io/github/forks/d4vzz/NLW3?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">
+  <img src="https://img.shields.io/github/forks/d4vzz/rebola-next?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/d4vzz/NLW3?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/d4vzz/rebola-next?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars">
 
 </p>
 
