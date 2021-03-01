@@ -42,6 +42,12 @@ Você precisa ter uma conta no [Figma](http://figma.com/) para visualizar os lay
 - [move.it 1.0](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
 - [move.it 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
 
+<p align="justify">
+  <img src="../public/Home.png" alt="Home" >
+
+ <img alt="" src="../public/Compartilhar.png" alt="Compartilhar no twitter" />
+</p>
+
 ## 🤖 Como executar
 
 - Clone o repositório
@@ -50,6 +56,17 @@ Você precisa ter uma conta no [Figma](http://figma.com/) para visualizar os lay
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
+## 🗜️ Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ por dvzz
