@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Rebola" title="Rebola" src="rebola-next/public/favicon.png" />
+    <img alt="Rebola" title="Rebola" src="https://github.com/d4vzz/rebola-next/blob/main/public/favicon.png" />
 </h1>
 
 <p align="center">
@@ -42,10 +42,10 @@ Você precisa ter uma conta no [Figma](http://figma.com/) para visualizar os lay
 - [move.it 1.0](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
 - [move.it 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
 
-<p align="justify">
-  <img src="rebola-next/public/Home.png" alt="Home" >
+<p align="center">
+  <img src="https://github.com/d4vzz/rebola-next/blob/main/public/Home.png" alt="Home" >
 
- <img src="rebola-next/public/Compartilhar.png" alt="Compartilhar no twitter" />
+ <img src="https://github.com/d4vzz/rebola-next/blob/main/public/Compartilhar.png" alt="Compartilhar no twitter" />
 </p>
 
 ## 🤖 Como executar
