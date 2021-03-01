@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Rebola" title="Rebola" src="../public/favicon.png" />
+    <img alt="Rebola" title="Rebola" src="rebola-next/public/favicon.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
+  <img  src="https://img.shields.io/static/v1?label=license&message=GPL3&color=8257E6&labelColor=121214" alt="License">
   
   <img src="https://img.shields.io/github/forks/d4vzz/NLW3?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">
 
@@ -43,9 +43,9 @@ Você precisa ter uma conta no [Figma](http://figma.com/) para visualizar os lay
 - [move.it 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
 
 <p align="justify">
-  <img src="../public/Home.png" alt="Home" >
+  <img src="rebola-next/public/Home.png" alt="Home" >
 
- <img alt="" src="../public/Compartilhar.png" alt="Compartilhar no twitter" />
+ <img src="rebola-next/public/Compartilhar.png" alt="Compartilhar no twitter" />
 </p>
 
 ## 🤖 Como executar
@@ -65,7 +65,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença GPL-3.0. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
